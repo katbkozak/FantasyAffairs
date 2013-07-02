@@ -1,0 +1,23 @@
+body
+{
+	background-color:#000000;
+	color:#FEFCFF;
+	width: 960px;
+	height: 600px;
+
+}
+
+#holder
+{
+
+	position:absolute;
+	top: 50%;
+	left: 50%;
+    width: 950px;
+    height: 500px;
+    margin: -250px 0 0 -475px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FEFCFF;
+    background-image:url('background.jpg');
+}
