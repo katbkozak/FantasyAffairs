@@ -42,9 +42,9 @@ body
 	position:absolute;
 	top: 45%;
 	right: 10%;
-    width: 500px;
+    width: 495px;
     height: 54px;
-    background-image:url('images/bar3.png');
+    background-image:url('images/bar3trans.png');
     background-position: center;
     z-index: 4;
 }
@@ -64,7 +64,7 @@ body
 	width: 300px;
 	height: 120px;
 	top: 65%;
-	right: 10%;
+	right: 11%;
 	background-image:url('images/falogo.png');
     background-position: center;
 }
