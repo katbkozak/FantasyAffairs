@@ -20,3 +20,32 @@ body
     background-position: center;
     background-repeat: no-repeat;
 }
+
+#video
+{
+
+	position:relative;
+	top: 15%;
+	left: 5%;
+    width: 380px;
+    height: 380px;
+    background-image:url('images/box2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 5;
+
+}
+
+#social
+{
+
+	position:absolute;
+	top: 45%;
+	right: 10%;
+    width: 500px;
+    height: 54px;
+    background-image:url('images/bar3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 4;
+}
