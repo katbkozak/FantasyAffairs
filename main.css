@@ -49,3 +49,12 @@ body
     background-repeat: no-repeat;
     z-index: 4;
 }
+
+#icons
+{
+	position:absolute;
+	top: 22%;
+	right: 5%;
+    width: auto;
+    height: auto;
+}
